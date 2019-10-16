@@ -1,3 +1,2 @@
-# Lin_Alg
-Linear Algebra work
-Continuation of the work from Kean git account
+## Lin_Alg
+Linear algebra notes in Python Notebook - Jupyter
